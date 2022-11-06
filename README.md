@@ -1,5 +1,5 @@
 # 面白そうなデータまとめ
-###### 作成：2022-10-06 最終更新：2022-10-10
+###### 作成：2022-10-06 最終更新：2022-11-06
 
 ## はじめに: 作成の意図
 本来、検証したい問いを設定してから、問いの検証方法を考え、それにあたって使えるデータを探す or 作成する ということが研究にあるべき姿勢と理解していますが、適切な問いを設定するのは研究の中で一番といっていいほど難しいものですし、データを作成するのにもコスト・知識・時間などの問題で難しい場合があるでしょう。
@@ -133,11 +133,20 @@ https://github.com/1never/open2ch-dialogue-corpus
 https://ledge.ai/ibm-project-codenet/
 https://research.ibm.com/blog/codenet-ai-for-code
 
+### Pre-trained word vectors of 30+ languages: 30+言語のword2vecとfasttext
+https://github.com/Kyubyong/wordvectors
+
+### JGLUE: Japanese General Language Understanding Evaluation
+https://github.com/yahoojapan/JGLUE
+
 ---
 
 ## 【3Dモデル】
 ### 3D都市モデル（Project PLATEAU）東京都23区
 https://www.geospatial.jp/ckan/dataset/plateau-tokyo23ku
+
+### habitat-matterport3d-dataset: 住宅や商業施設の空間からなる屋内空間3Dデータセット
+https://github.com/facebookresearch/habitat-matterport3d-dataset
 
 ---
 
